@@ -1,6 +1,5 @@
 # NLP-Text-Processing-and-Classification-in-Python
 
-## 
 ## Project walkthrough 
 1. Data Description and visualization
 2. Data Preprocessing
@@ -31,3 +30,11 @@
 - Language: Python
 
 - Libraries: pandas, seaborn, matplotlib, sklearn, nltk
+
+## Data Description 
+The dataset contains more than a thousand reviews about an application openly available to the public. The data includes reviews and sentiment, i.e., is the review being either positive or negative with various other variables.  
+
+## Objective 
+- Build a binary text processing and classification model
+
+
